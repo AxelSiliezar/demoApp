@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://www.notion.so/9f700e5ac38e4f86aae9d38611a82fdc#65c6cb213b554b28a7e7c4cdb1e420cc
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
