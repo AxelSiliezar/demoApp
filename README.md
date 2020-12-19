@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://www.notion.so/9f700e5ac38e4f86aae9d38611a82fdc#65c6cb213b554b28a7e7c4cdb1e420cc
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f84bea6-dcb7-43d3-bbda-837e75a4a3fb/ezgif.com-video-to-gif.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f84bea6-dcb7-43d3-bbda-837e75a4a3fb/ezgif.com-video-to-gif.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
