@@ -20,9 +20,6 @@ The following **optional** features are implemented:
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -35,11 +32,11 @@ Here's a walkthrough of implemented app:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had a lot of great fun with the app.
 
 ## License
 
-    Copyright [2020] [name of copyright owner]
+    Copyright [2020] [Axel Siliezar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
