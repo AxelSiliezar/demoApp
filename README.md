@@ -26,11 +26,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-<img src='/Users/axelsiliezar/Desktop/ezgif.com-video-to-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented app:
+![](https://i.imgur.com/RPdWJZC.gif)
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
 
 ## Notes
 
